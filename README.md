@@ -1,24 +1,24 @@
-<!-- Banner -->
+<!-- Coding GIF -->
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ### 👋 Hi, I'm Aryan!
 
-I’m a passionate developer with experience in **web development** and **programming**, focusing on building clean, efficient, and maintainable code.
+I’m a passionate developer with interest in **web development** and **programming**, focusing on building clean, efficient, and maintainable code.
 
 ---
 
 ### 💻 Skills
 <table>
 <tr>
-<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="48"><br>HTML5</td>
-<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="48"><br>CSS3</td>
-<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/1199/1199113.png" width="48"><br>JavaScript</td>
-<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2269/2269992.png" width="48"><br>Java</td>
-<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="48"><br>C</td>
-<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" width="48"><br>Python</td>
-<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2309/2309953.png" width="48"><br>DSA</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48"/><br>HTML5</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48"/><br>CSS3</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48"/><br>JavaScript</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48"/><br>Java</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48"/><br>C</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48"/><br>Python</td>
+<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2309/2309953.png" alt="DSA" width="48"/><br>DSA</td>
 </tr>
 </table>
 
@@ -34,6 +34,10 @@ I’m a passionate developer with experience in **web development** and **progra
 - 🔥 Currently learning and exploring new technologies.
 - 👨‍💻 Open to collaborations and contributions.
 - 💡 Always ready for challenging and exciting projects.
+<!-- Button-style link for Resume -->
+<a href="https://aryanmemento.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/View%20My%20Portfolio-0077B5?style=for-the-badge&logo=readme&logoColor=white" alt="View My portfolio">
+</a>
 
 ---
 
@@ -42,7 +46,7 @@ I’m a passionate developer with experience in **web development** and **progra
 
 ---
 ### 📊 GitHub Stats
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryanCS40&show_icons=true&theme=radical)
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryanCS40&show_icons=true&theme=radical)
 
 
 Thank you for visiting my profile! Let’s build something amazing together!  
