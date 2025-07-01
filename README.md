@@ -25,7 +25,7 @@ I’m a passionate developer with keen interest in **web development** and **pro
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-xx-46632a351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-46632a351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r_yan2.6?utm_source=qr&igsh=MXRwaDZkMWFsaWdjNQ==)
 <!-- [![Gmail](https://img.shields.io/badge/-Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white)](aryanyadav26june@gmail.com) -->
 
